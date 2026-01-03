@@ -1,0 +1,7 @@
+{
+  "name": "Infinity Fitness Den - Premium Gym Bhubaneswar",
+  "description": "Production-ready, industrial-level fitness website for Infinity Fitness Den in Sundarpada, Bhubaneswar. Featuring glassmorphism, AI chat, and advanced interactive tools.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
